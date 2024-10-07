@@ -17,7 +17,7 @@ own dissectors to "i2c.addr" table, and they will be used automatically.
 2. `mkdir build && cd build && cmake .. && make install`.
 
 It will be compiled for your version of Wireshark and installed into appropriate
-loation under `~/.local`.
+location under `~/.local`.
 
 ## Q&A
 
